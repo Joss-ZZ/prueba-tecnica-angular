@@ -1,0 +1,86 @@
+{
+  "ok": true,
+  "data": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellidos": "Pérez",
+      "telefono": "123456789",
+      "direccion": "Calle Principal, 123",
+      "ingresosMes": 3000,
+      "gastosMes": 1500
+    },
+    {
+      "id": 2,
+      "nombre": "María",
+      "apellidos": "González",
+      "telefono": "987654321",
+      "direccion": "Avenida Central, 456",
+      "ingresosMes": 4000,
+      "gastosMes": 2000
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos",
+      "apellidos": "López",
+      "telefono": "555888777",
+      "direccion": "Plaza Mayor, 789",
+      "ingresosMes": 2500,
+      "gastosMes": 1200
+    },
+    {
+      "id": 4,
+      "nombre": "Ricardo",
+      "apellidos": "Pérez",
+      "telefono": "123456789",
+      "direccion": "Calle Principal, 123",
+      "ingresosMes": 3400,
+      "gastosMes": 1500
+    },
+    {
+      "id": 5,
+      "nombre": "Jhosimar",
+      "apellidos": "González",
+      "telefono": "987654321",
+      "direccion": "Avenida Central, 456",
+      "ingresosMes": 13200,
+      "gastosMes": 5000
+    },
+    {
+      "id": 6,
+      "nombre": "Niver",
+      "apellidos": "López",
+      "telefono": "555888777",
+      "direccion": "Plaza Mayor, 789",
+      "ingresosMes": 12000,
+      "gastosMes": 4500
+    },
+    {
+      "id": 7,
+      "nombre": "José",
+      "apellidos": "Pérez",
+      "telefono": "123456789",
+      "direccion": "Calle Principal, 123",
+      "ingresosMes": 17520,
+      "gastosMes": 4360
+    },
+    {
+      "id": 8,
+      "nombre": "Messi",
+      "apellidos": "González",
+      "telefono": "987654321",
+      "direccion": "Avenida Central, 456",
+      "ingresosMes": 20000,
+      "gastosMes": 2000
+    },
+    {
+      "id": 9,
+      "nombre": "Cristiano",
+      "apellidos": "López",
+      "telefono": "555888777",
+      "direccion": "Plaza Mayor, 789",
+      "ingresosMes": 5600,
+      "gastosMes": 1200
+    }
+  ]
+}
